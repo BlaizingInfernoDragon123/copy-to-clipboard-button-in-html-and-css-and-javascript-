@@ -1,5 +1,7 @@
 # copy-to-clipboard-button-in-html-and-css-and-javascript-
-just a simple repository to display the working function of a copy to clipboard button which is made in html and css and javascript 
+`
+Just a simple repository to display the working function of a copy to clipboard button which is made in html and css and javascript 
+`
 
 # Live View Of The Webpage Link-
 View the webpage live here at github pages
@@ -39,7 +41,11 @@ Check SECURITY.md for more info or click here.
 </a>
 
 # My Email For Any Queries-
-- 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:bibhabbarua@gmail.com">
+`
+- 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text - 
+`
+
+<a href="mailto:bibhabbarua@gmail.com">
 ```
 BlazingInfernoDragon123@gmail.com
 ```
