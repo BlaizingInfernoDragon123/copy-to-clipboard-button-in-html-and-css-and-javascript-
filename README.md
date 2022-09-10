@@ -44,7 +44,6 @@ Check SECURITY.md for more info or click here.
 `
 - 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text - 
 `
-
 <a href="mailto:bibhabbarua@gmail.com">
 ```
 BlazingInfernoDragon123@gmail.com
