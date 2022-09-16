@@ -50,6 +50,14 @@ BlazingInfernoDragon123@gmail.com
 `
 Thank you for reading have a nice day :)
 `
+# My patreon page check the post here
+Click below to check this post on my patreon page-
+<a href="https://www.patreon.com/posts/copy-to-button-72057436?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator">
+
+```
+https://www.patreon.com/posts/copy-to-button-72057436?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_cr
+```
+</a>
 
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
