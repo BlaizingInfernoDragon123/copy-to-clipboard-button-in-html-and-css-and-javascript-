@@ -7,7 +7,6 @@ Just a simple repository to display the working function of a copy to clipboard 
 `
 View the webpage live here at github pages
 `
-
 <a href="https://blaizinginfernodragon123.github.io/copy-to-clipboard-button-in-html-and-css-and-javascript-/" target=”_blank”>
 ```
 https://blaizinginfernodragon123.github.io/copy-to-clipboard-button-in-html-and-css-and-javascript-/
