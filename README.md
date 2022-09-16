@@ -5,11 +5,25 @@ Just a simple repository to display the working function of a copy to clipboard 
 
 # Live View Of The Webpage Link-
 View the webpage live here at github pages
+
 <a href="https://blaizinginfernodragon123.github.io/copy-to-clipboard-button-in-html-and-css-and-javascript-/" target=”_blank”>
 ```
 https://blaizinginfernodragon123.github.io/copy-to-clipboard-button-in-html-and-css-and-javascript-/
 ```
 </a>
+
+# My patreon page check the post here-
+`
+Click below to check this post on my patreon page-
+`
+
+<a href="https://www.patreon.com/posts/copy-to-button-72057436?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator">
+
+```
+https://www.patreon.com/posts/copy-to-button-72057436?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_cr
+```
+</a>
+
 
 ```
 Hello everyone thanks for paying a visit 
@@ -50,14 +64,6 @@ BlazingInfernoDragon123@gmail.com
 `
 Thank you for reading have a nice day :)
 `
-# My patreon page check the post here
-Click below to check this post on my patreon page-
-<a href="https://www.patreon.com/posts/copy-to-button-72057436?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator">
-
-```
-https://www.patreon.com/posts/copy-to-button-72057436?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_cr
-```
-</a>
 
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
