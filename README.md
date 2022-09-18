@@ -73,3 +73,35 @@ Our YouTube Channel Link Plss subscribe -
 BlazingInfernoDragon123 Channel
 ```
 </a>
+
+<!-- Github -->
+
+`
+Want to subscribe to our channel directly ?Click Down👇
+`
+
+<a href="https://youtube.com/channel/UC94rjmYz21IBREgkLaQ7NVA">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-subscription-icon.svg" style="border-radius:5px">
+</a>
+
+
+# My Other Following Links 🔗 - 
+
+<!-- Github -->
+
+`
+Want to follow me on github?Click Down👇
+`
+
+<a href="https://github.com/blaizinginfernodragon123">
+<img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg" style="border-radius:5px">
+</a>
+
+<!--[![patreon]-->
+`
+Support me on patreon?Click Down👇
+`
+
+<a href="https://patreon.com/blaizinginfernodragon123">
+<img src="https://1.bp.blogspot.com/-7bPYnbDpDMg/YFfPMuFKyyI/AAAAAAAAS6A/8F8MMmMP4AQSACqo1EAshGTQhm0HEaKygCLcBGAsYHQ/s640/76jg.png">
+</a>
