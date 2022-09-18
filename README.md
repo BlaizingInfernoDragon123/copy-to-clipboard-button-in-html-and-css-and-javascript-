@@ -63,6 +63,16 @@ BlazingInfernoDragon123@gmail.com
 </a>
 
 `
+Want to email directly ?Click Down👇
+`
+
+<a href="mailto:bibhabbarua@gmail.com">
+<img src="https://visualpharm.com/assets/372/Email-595b40b65ba036ed117d43e6.svg" style="border-radius:5px" alt="BlaizingInfernoDragon123@gmail.com">
+</a>
+
+
+
+`
 Thank you for reading have a nice day :)
 `
 
