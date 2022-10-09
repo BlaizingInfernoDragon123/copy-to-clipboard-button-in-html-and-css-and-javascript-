@@ -20,7 +20,7 @@ You all are totally free to report any vulnerability found in any time of the da
 for that mail me at here -
 `
 
-<a href="mailto:bibhabbarua@gmail.com"> 
+<a href="mailto:blazinginfernodragon123@gmail.com"> 
 
 ```
 Blaizing Inferno Dragon 123@gmail.com
@@ -38,12 +38,12 @@ abilities/bugs feel free to mail me here at the email address give below at any 
 As soon as possible -
 `
 
-<a href="mailto:bibhabbarua@gmail.com"> 
+<a href="mailto:blazinginfernodragon123@gmail.com"> 
 
 ```
 Blaizing Inferno Dragon 123@gmail.com
 ```
-
+</a>
 
 # Check Readme.md for more info or click down in that box
 <a href="./README.md"> 
