@@ -6,8 +6,8 @@
 }
 body {  
 font-family:"Roboto",sans-serif;  
-background:#f0f2f7;}.container 
-{  
+background:#f0f2f7;}
+.container {  
 position:absolute;  
 top:50%;  
 left:50%;  
@@ -64,7 +64,6 @@ top:-20px;
 right:25px;  
 width:10px;  
 height:10px;
-}  
 background:#5c81dc;  
 transform:rotate(45deg);  
 display:none;
